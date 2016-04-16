@@ -1,0 +1,188 @@
+body{
+    background-color: lightgrey;
+}
+
+.feedImg{
+    display:inline-block;
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin: 10px 10px 10px 10px;
+    border-radius: 20px;
+}
+
+h2{
+    text-shadow: 0px 0px 4px white;
+    color: darkblue;
+    cursor: pointer;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.imgg{
+    display:inline-block;
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin: 10px 10px 10px 10px;
+    border-radius: 20px;
+    background-color: black;
+}
+
+.bigWrap{
+    display: inline-block;
+    max-width: 300px;
+}
+
+.titles{
+    display:inline-block;
+    font-weight: bold;
+}
+.titles:hover{
+    text-shadow: 0px 0px 8px mediumseagreen;
+    color: darkblue;
+}
+
+.status{
+    margin-top: -10px;
+  
+
+}
+
+.wrap{
+    padding-top: 5px;
+}
+
+.feed{
+    min-height: 70px;
+    background: lightgray;
+    margin-top: 4px !important;
+    margin: auto;
+    border-radius: 5px;
+    width: 400px;
+    max-width: 400px;
+    display: none;
+}
+
+.feedsBox{
+    width:410px;
+    margin: auto;
+    background-color: mediumseagreen;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    margin-top: 40px;
+    border-radius: 5px;
+    margin-bottom: 40px;
+}
+
+
+
+.twitchl{
+    display: inline-block;
+    float: left;
+    margin-left: 40px;
+}
+
+.twitchr{
+    display: inline-block;
+    float: right;
+    margin-right: 40px;
+}
+
+.online{
+    height: 10px;
+    width: 10px;
+    background: green;
+    border-radius: 5px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.online1{
+    height: 14px;
+    width: 14px;
+    background: green;
+    border-radius: 9px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.online1:hover{
+    height: 16px;
+    width: 16px;
+    border-radius: 8px;
+}
+
+.offline{
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    background: red;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.offline1{
+    display: inline-block;
+    height: 14px;
+    width: 14px;
+    background: red;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.offline1:hover{
+    height: 16px;
+    width: 16px;
+    border-radius: 8px;
+}
+
+h2{
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+a{
+    color: darkblue;
+    cursor: pointer;
+}
+
+.dotDiv{
+    margin: auto;
+    text-align: center;
+}
+
+.white{
+    margin: auto;
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    background: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.white1{
+    margin: auto;
+    display: inline-block;
+    height: 14px;
+    width: 14px;
+    background: white;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.white1:hover{
+    height: 16px;
+    width: 16px;
+    border-radius: 8px;
+}
+
+.game{
+    margin-top: -15px;
+    font-style: italic;
+    font-size: 10px;
+}
